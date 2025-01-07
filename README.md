@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is **André Guimarães Rocha de Oliveira** (or you can call me Dedé), and I'm a **Backend & Frontend Developer**, from **Belo Horizonte, Minas Gerais**.</p>
+<p align="left">My name is <b>André Guimarães Rocha de Oliveira</b> (or you can call me Dedé), and I'm a <b>Backend & Frontend Developer</b>, from  Belo Horizonte, Minas Gerais.</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Interested in programming for 5 years and studying for 2 years<br>📚 I'm currently learning **JS** , **React** , and **Node.js**<br>🎯 Goals: To become a **Systems Engineer** and develop scalable projects<br>🎲 Fun fact: I love finding ways to automate daily tasks and simplify processes!</p>
+<p align="left">✨ Interested in programming for 5 years and studying for 2 years<br>📚 I'm currently learning <b>JS</b> , <b>React</b> , and <b>Node.Js</b><br>🎯 Goals: To become a <b>Systems Engineer</b> and develop scalable projects<br>🎲 Fun fact: I love finding ways to automate daily tasks and simplify processes!</p>
 
 ###
 
