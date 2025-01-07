@@ -41,4 +41,4 @@ Sempre busco maneiras de automatizar atividades do dia a dia. Acredito que a tec
 ---
 
 ## 💬 Vamos Conversar?
-Sempre aberto a novas ideias e oportunidades! Entre em contato, **nunca é tarde para recomeçar!** 🌱
+Sempre aberto a novas ideias e oportunidades! **nunca é tarde para recomeçar!** 🌱
