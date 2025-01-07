@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 5 years ago<br>📚 I'm currently learning **C#**, **C++**, and **Node.js**<br>🎯 Goals: To become a **Systems Engineer** and develop scalable projects<br>🎲 Fun fact: I love finding ways to automate daily tasks and simplify processes!</p>
+<p align="left">✨ Interested in programming for 5 years and studying for 2 years<br>📚 I'm currently learning **JS** , **React** , and **Node.js**<br>🎯 Goals: To become a **Systems Engineer** and develop scalable projects<br>🎲 Fun fact: I love finding ways to automate daily tasks and simplify processes!</p>
 
 ###
 
