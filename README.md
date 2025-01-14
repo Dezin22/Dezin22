@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is <b>André Guimarães Rocha de Oliveira</b> (or you can call me Dedé), and I'm a <b>Backend & Frontend Developer</b>, from  Belo Horizonte, Minas Gerais.</p>
+<p align="left">My name is <b>André Guimarães Rocha de Oliveira</b> (or you can call me Dedé), and I'm a <b>Student</b> <b>Backend & Frontend Developer</b>, from  Belo Horizonte, Minas Gerais.</p>
 
 ###
 
